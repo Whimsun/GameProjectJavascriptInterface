@@ -8,7 +8,7 @@ function start(){
 $(document).ready(function() {
     $('#content').DataTable( {
         "ajax": {
-            url:'http://193.191.187.14:10298/GameProjectRESTAPI-1.2-SNAPSHOT/gameapi',
+            url:'http://193.191.187.14:10298/GameRest/gameapi',
             dataSrc:''
         },
         "columns": [

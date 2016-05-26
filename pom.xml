@@ -25,6 +25,7 @@
     </dependencies>
 
     <build>
+	<finalName>GameInterface</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
